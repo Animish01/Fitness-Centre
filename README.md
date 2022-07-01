@@ -42,7 +42,7 @@ Database - MySQL
 
 
 
-This project was done for the course CS F212 - DataBase Systems under the guidance of Prof. Lov Kumar sir.  
+This project was done for the course CSF212 - DataBase Systems under the guidance of Prof. Lov Kumar sir.  
 
 Team members :
 
